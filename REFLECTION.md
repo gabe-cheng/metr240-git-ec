@@ -1,0 +1,3 @@
+What I learned about Git for modeling workflows (3–5 sentences)...
+
+I was somewhat familiar with super basic git workflows, mainly just committing to and pulling from branches and from an upstream repo like on github. I learned about using `git restore` to recover to the last commit, and also using `git log` to visually show the tree and history right in the terminal. I'll probably use this chore/feat/docs/refactor naming style for my commits in the future since that makes it more obvious what a commit is doing.
